@@ -4,7 +4,7 @@
 
 HOW WILL THE PROGRAM BE CREATED?
 
-The program will detect and mark the tumor directly from the brain scans using Python, Machine Learning, OpenCV, and Numpy.  The Program Can be Found Here (Click here)
+The program will detect and mark the tumor directly from the brain scans using Python, Machine Learning, OpenCV, and Numpy.  The Program Can be Found Here ([Click here](main.ipynb))
 
 
 
