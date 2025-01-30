@@ -30,6 +30,7 @@ The software must be accessible and convenient to use for all, this further conc
 
 ## Authors
 
+- [@Yonah Aviv](https://github.com/y330)
 - [@Aryaman Srivastava](https://www.twitter.com/AryamanSri03)
 
   
@@ -66,11 +67,9 @@ To deploy this project run
   
 ## Support
 
-Twitter: [@AryamanSri03](https://twitter.com/AryamanSri03)
-
+LinkedIn: [@yonahaviv](https://Linkedin.com/in/yonahaviv)
 Mail: [aryamansrivastava@outloo.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Email+from+website&to=aryamansrivastava@outlook.com)
 
-Discord: [Artistic Developer](https://discord.com/users/772664417690845184)
 
 ## Logo
 ![Logo](https://media.discordapp.net/attachments/829696850700402740/854739097007554560/gow.png?width=333&height=333)
